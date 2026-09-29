@@ -1,26 +1,30 @@
-# dashbord
+# CaseFlow - Smart Complaint Management Platform
 
-Implement exactly the screenshot and nothing else
+## Overview
 
-This project was built with [Lovable](https://lovable.dev).
+CaseFlow is a smart complaint management platform designed to streamline complaint handling, analysis, routing, and follow-up through automation and AI capabilities.
 
-**Live app**: https://caseflowcrm.lovable.app
+## Contents
 
-## Build with Lovable
+This repository contains the complete source code of the platform, including:
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6b0b1a15-37fa-48be-a9e6-bbde436ea8fb).
+- Frontend application
+- Backend logic and server functions
+- Database integration
+- System configurations
+- AI-powered analysis components
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## Development & Testing
 
-## Development
+The platform was developed and tested using Visual Studio Code, with local environment validation to ensure system stability, component compatibility, and error handling before deployment.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Local Development
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Requirements:
+- Node.js
+- npm
+
+Installation:
+
+```bash
+npm install
